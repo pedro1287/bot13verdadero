@@ -6,7 +6,7 @@ try:
 except ImportError:
     from argparse import Namespace
 
-HOST = 'https://file2freeapi.herokuapp.com/file2free/'
+HOST = 'https://megaup13.herokuapp.com/file2free/'
 PARSE_CALENDAR = 'calendar'
 PARSE_BLOG = 'blog'
 PARSE_EVIDENCE = 'evidence'
